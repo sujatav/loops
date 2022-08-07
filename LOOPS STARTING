@@ -1,0 +1,49 @@
+var count=1;
+while(count<10){
+  console.log(count);
+  count+=2;
+
+}
+
+var a=23;
+while(a<60){
+  console.log(a);
+  a+=3
+}
+
+var b=1;
+while(b<20){
+  console.log(b)
+  b+=3
+}
+var c=0;
+while(c<1){
+  console.log(c)
+  c+=1
+}
+
+var d=8;
+while(d<4){
+  console.log(d)
+  d+=1
+}
+const n=5;
+for(let i=1; i<=n; i++){
+  console.log(i)
+}
+
+let m=10;
+for(let j=2; j<=10; j++){
+  console.log(j)
+}
+
+let o=20;
+for (let o=4; o<=30; o++){
+  console.log(o)
+}
+const k=4;
+for(let i=1;i<=n;i++){
+  console.log(i)
+}//LOOPS CODES 
+
+
